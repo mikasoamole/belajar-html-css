@@ -1,0 +1,12 @@
+.Judul {
+  background-color: rgb(129, 129, 189);
+  padding: 15px 30px;
+  text-align: center;
+}
+.text {
+  width: 50%;
+  background-color: brown;
+  padding: 2px;
+  text-align: center;
+  margin: 10px;
+}
